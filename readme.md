@@ -1,9 +1,11 @@
 # React Boilerplate
 >> clone:
+
 git clone --depth=1 https://github.com/gString/react-boilerplate.git <app folder here>
 
 >> get into folder
 >> disconnect git repository (and remove history):
+
 rm -rf .git
 
 >> create new git repo:
